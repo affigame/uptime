@@ -15,15 +15,14 @@ sites:
   - name: affigame
     url: https://www.affigame.com
   - name: affigame fivepd 
-    url: $SERVEURFIVEPD
-    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png
-  - name: affigame fivem dev
-    url: $SERVEURDEV
-    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png
-  - name: affigame fivem TEST
     check: "tcp-ping"
     url: $SERVEURFIVEM
     port: 30130
+    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png
+  - name: affigame fivem dev
+    check: "tcp-ping"
+    url: $SERVEURFIVEM
+    port: 30140
     icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png
 
 status-website:
