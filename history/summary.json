@@ -23,38 +23,36 @@
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png",
     "slug": "affigame-fivepd",
     "status": "up",
-    "uptime": "2.10%",
-    "uptimeDay": "2.10%",
-    "uptimeWeek": "2.10%",
-    "uptimeMonth": "2.10%",
-    "uptimeYear": "2.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 609,
     "timeWeek": 609,
     "timeMonth": 609,
     "timeYear": 609,
-    "dailyMinutesDown": {
-      "2023-01-13": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "affigame fivem dev",
     "url": "$SERVEURDEV",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png",
     "slug": "affigame-fivem-dev",
-    "status": "down",
-    "uptime": "0.56%",
-    "uptimeDay": "0.56%",
-    "uptimeWeek": "0.56%",
-    "uptimeMonth": "0.56%",
-    "uptimeYear": "0.56%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.93%",
+    "uptimeDay": "1.93%",
+    "uptimeWeek": "1.93%",
+    "uptimeMonth": "1.93%",
+    "uptimeYear": "1.93%",
+    "time": 381,
+    "timeDay": 381,
+    "timeWeek": 381,
+    "timeMonth": 381,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2023-01-13": 4
+      "2023-01-13": 7
     }
   },
   {
@@ -62,19 +60,19 @@
     "url": "$SERVEURFIVEM",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png",
     "slug": "affigame-fivem-test",
-    "status": "down",
-    "uptime": "0.74%",
-    "uptimeDay": "0.74%",
-    "uptimeWeek": "0.74%",
-    "uptimeMonth": "0.74%",
-    "uptimeYear": "0.74%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.31%",
+    "uptimeDay": "1.31%",
+    "uptimeWeek": "1.31%",
+    "uptimeMonth": "1.31%",
+    "uptimeYear": "1.31%",
+    "time": 127,
+    "timeDay": 127,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-01-13": 4
+      "2023-01-13": 7
     }
   }
 ]
