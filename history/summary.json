@@ -40,19 +40,19 @@
     "url": "$SERVEURFIVEM",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png",
     "slug": "affigame-fivem-dev",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 131,
-    "timeDay": 131,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 120,
+    "timeDay": 120,
+    "timeWeek": 120,
+    "timeMonth": 120,
+    "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-01-14": 0
+      "2023-01-14": 6
     }
   }
 ]
