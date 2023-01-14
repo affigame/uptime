@@ -9,7 +9,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "*/1 * * * *"
 
 sites:
   - name: affigame
@@ -37,7 +37,7 @@ status-website:
   introMessage: visite le site https://www.affigame.com pour nous rejoindre
   navbar:
     - title: Status
-      href: /uptime
+      href: /
     - title: site web affigame
       href: https://www.affigame.com
 
