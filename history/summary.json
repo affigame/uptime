@@ -22,19 +22,19 @@
     "url": "$SERVEURFIVEM",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png",
     "slug": "affigame-fivepd",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 103,
-    "timeDay": 45,
-    "timeWeek": 69,
+    "timeDay": 71,
+    "timeWeek": 73,
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2023-01-27": 1
+      "2023-01-27": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$SERVEURFIVEM",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png",
     "slug": "affigame-fivem-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 79,
-    "timeDay": 26,
-    "timeWeek": 63,
+    "timeDay": 57,
+    "timeWeek": 66,
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2023-01-27": 0
+      "2023-01-27": 8
     }
   }
 ]
