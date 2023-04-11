@@ -16,14 +16,14 @@ sites:
     url: https://www.affigame.com
   - name: affigame fivepd 
     check: "tcp-ping"
-    url: $SERVEURFIVEM
+    url: $SERVER_1
     port: 30130
-    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png
-  - name: affigame fivem dev
+    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.webp
+  - name: affigame Minecraft survie
     check: "tcp-ping"
-    url: $SERVEURFIVEM
-    port: 30140
-    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png
+    url: $SERVER_1
+    port: 25565
+    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.webp
 
 status-website:
   theme: night
@@ -31,7 +31,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.affigame.com
   # baseUrl: /uptime
-  logoUrl: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-160x36-1.png
+  logoUrl: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.webp
   name : status affigame
   introTitle: "**affigame** est une communauté basser sur les jeux vidéo "
   introMessage: visite le site https://www.affigame.com pour nous rejoindre
