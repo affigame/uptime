@@ -22,10 +22,10 @@
     "url": "$SERVER_1",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.webp",
     "slug": "affigame-fivepd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
@@ -33,7 +33,9 @@
     "timeWeek": 72,
     "timeMonth": 100,
     "timeYear": 90,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-13": 1
+    }
   },
   {
     "name": "affigame Minecraft survie",
