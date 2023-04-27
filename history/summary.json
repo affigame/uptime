@@ -4,18 +4,20 @@
     "url": "https://www.affigame.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.affigame.com.ico",
     "slug": "affigame",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 321,
-    "timeWeek": 317,
-    "timeMonth": 306,
-    "timeYear": 317,
-    "dailyMinutesDown": {}
+    "time": 316,
+    "timeDay": 232,
+    "timeWeek": 295,
+    "timeMonth": 301,
+    "timeYear": 316,
+    "dailyMinutesDown": {
+      "2023-04-27": 1
+    }
   },
   {
     "name": "affigame fivepd",
