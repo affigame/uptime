@@ -28,10 +28,10 @@
     "url": "$SERVER_1",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.webp",
     "slug": "affigame-fivepd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.83%",
     "time": 87,
@@ -40,6 +40,7 @@
     "timeMonth": 76,
     "timeYear": 87,
     "dailyMinutesDown": {
+      "2023-05-10": 1,
       "2023-04-25": 81,
       "2023-04-24": 155,
       "2023-04-13": 43
